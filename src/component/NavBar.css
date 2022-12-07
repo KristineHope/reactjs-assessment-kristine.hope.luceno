@@ -1,0 +1,9 @@
+.nav{
+    border-radius: 30px;
+    background-color: lavender;
+    padding:  10px 25px ;
+    max-width: 100%;
+    width: 2000px;
+    height: 10vh;
+    align-items: flex-end;
+}
